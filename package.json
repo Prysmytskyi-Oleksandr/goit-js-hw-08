@@ -9,16 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Prysmytskyi-Oleksandr/goit-js-hw-08_1"
+    "url": "git+https://github.com/Prysmytskyi-Oleksandr/goit-js-hw-08_1.git"
   },
-  // https://github.com/goitacademy/parcel-project-template.git
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  }, 
-  // https://github.com/goitacademy/parcel-project-template/issues
+  },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
     "lodash.throttle": "^4.1.1",
